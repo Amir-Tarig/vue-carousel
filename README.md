@@ -1,4 +1,5 @@
 # vue-carousel
+Testing Vue 3 transition by building a simple carousel 
 
 ## Project setup
 ```
